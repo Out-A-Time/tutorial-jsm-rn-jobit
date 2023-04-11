@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "tutorial-jsm-rn-jobit",
+    "slug": "tutorial-jsm-rn-jobit"
+  }
+}
